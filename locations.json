@@ -1,0 +1,28 @@
+{
+    "destinations": [
+      {
+        "latitude": -26.205756,
+        "longitude": 28.04239,
+        "data": {
+          "name": "Homechoice - Johannesburg",
+          "address": "Cnr Rissik & Fox Streets, Marshalltown, Johannesburg CBD"
+        }
+      },
+      {
+        "latitude": -25.707985,
+        "longitude": 28.420506,
+        "data": {
+          "name": "Homechoice - Mamelodi",
+          "address": "Shop 37, Mams Mall, Mamelodi, Mahube Valley, Pretoria"
+        }
+      },
+      {
+        "latitude": -25.740991,
+        "longitude": 28.192213,
+        "data": {
+          "name": "Homechoice - Pretoria",
+          "address": "Cnr Lilian Ngoyi & Struben Streets, Pretoria CBD"
+        }
+      }
+    ]
+  }
